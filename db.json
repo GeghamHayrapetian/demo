@@ -1,14 +1,62 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "title": "Dawn of the Planet of the Apes",
+    "description": "A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier."
+  },
+  {
+    "title": "District 9",
+    "description": "An extraterrestrial race, forced to live in slum-like conditions on Earth, suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology."
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "description": "When humanity allies with a bounty hunter in pursuit of Optimus Prime, the Autobots turn to a mechanic and his family for help."
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "description": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants."
+  },
+  {
+    "title": "The Machinist",
+    "description": "An industrial worker who hasn't slept in a year begins to doubt his own sanity."
+  },
+  {
+    "title": "The Last Samurai",
+    "description": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle."
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "description": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones."
+  },
+  {
+    "title": "Tangled",
+    "description": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is."
+  },
+  {
+    "title": "Rush",
+    "description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda."
+  },
+  {
+    "title": "Drag Me to Hell",
+    "description": "A loan officer who evicts an old woman from her home finds herself the recipient of a supernatural curse. Desperate, she turns to a seer to try and save her soul, while evil forces work to push her to a breaking point."
+  },
+  {
+    "title": "Despicable Me 2",
+    "description": "When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness."
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her."
+  },
+  {
+    "title": "A Bug's Life",
+    "description": "A misfit ant, looking for warriors to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe."
+  },
+  {
+    "title": "Life of Brian",
+    "description": "Born on the original Christmas in the stable next door to Jesus, Brian of Nazareth spends his life being mistaken for a messiah."
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed."
   }
-}
+]
